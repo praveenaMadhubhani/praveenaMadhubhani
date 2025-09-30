@@ -105,20 +105,6 @@ Computer Engineering Undergraduate passionate about creating autonomous systems 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveenamadhubhani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=9B59B6)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=praveenamadhubhani&theme=radical&hide_border=true&background=0D1117&ring=9B59B6&fire=9B59B6&currStreakLabel=9B59B6)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenamadhubhani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9B59B6)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
